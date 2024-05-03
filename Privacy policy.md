@@ -57,7 +57,7 @@ you:</span></span></span><span style="font-size: 15px;"><span style="color: rgb(
 
   - <span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">Download
     and use our mobile application
-    (Youledge)<span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);">,</span></span></span></span></span></span></span></span></span><span data-custom-class="body_text"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);">
+    (Whister)<span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);">,</span></span></span></span></span></span></span></span></span><span data-custom-class="body_text"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);">
     or any other application of ours that links to this privacy
     notice</span></span></span></span></span></span></span></span>
 
@@ -732,12 +732,7 @@ purposes.</span></span></span>
 
   - <span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">*<span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">*Interactions
     between the user and the application*</span></span></span>*.
-    <span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">Statistics
-    based on the user's previous activity within the application, as well as content which is willingly introduced by the user in the application. This may include
-    internal ratings representing how well a user answered the items within a quiz, the number of consecutive days the user has been active,
-    every content that the user is adding in the application (collections, flashcards). All of the aforementioned collected data is available in the
-    user's statistics page within the main
-    menu.</span></span></span></span></span></span>
+    <span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">Statistics based on the user's previous activity within the application, as well as content which is willingly introduced by the user in the application. This may include internal ratings representing how well a user performed at the game, the time spent playing, every content that the user is adding in the application (players). All of the aforementioned collected data is available in the dashboard page within the main menu.</span></span></span></span></span></span>
 
 <div style="line-height: 1.5;">
 
@@ -1404,7 +1399,7 @@ Authentication<span style="font-size: 15px;"><span style="color: rgb(89, 89, 89)
   
 <div style="line-height: 1.5;">
 
-<span style="font-size: 15px;"><span data-custom-class="body_text">Firebase Analytics may share Data with other tools provided by Firebase, such as Authentication or Cloud Storage. The user may check this privacy policy to find a detailed explanation about the other tools used by our Service. Youledge uses identifiers for mobile devices and technologies similar to cookies to run the Firebase Analytics service. For more details, you can check out the Firebase Analytics Terms and Conditions (https://firebase.google.com/terms/analytics) and Firebase Analytics Privacy Policy (https://firebase.google.com/policies/analytics).</span></span>
+<span style="font-size: 15px;"><span data-custom-class="body_text">Firebase Analytics may share Data with other tools provided by Firebase, such as Authentication or Cloud Storage. The user may check this privacy policy to find a detailed explanation about the other tools used by our Service. Whister uses identifiers for mobile devices and technologies similar to cookies to run the Firebase Analytics service. For more details, you can check out the Firebase Analytics Terms and Conditions (https://firebase.google.com/terms/analytics) and Firebase Analytics Privacy Policy (https://firebase.google.com/policies/analytics).</span></span>
 
 </div>
   
@@ -3138,8 +3133,7 @@ NOTICE?</h2></span></span></span></span></span>
 <span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">If
 you have questions or comments about this notice, you may
 <span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text">email
-us at soalexandrion1997@yahoo.com or use the "Contact" section within the
-mobile application.</span></span></span></span></span>
+us at soalexandrion1997@yahoo.com.</span></span></span></span></span>
 
 </div>
 
