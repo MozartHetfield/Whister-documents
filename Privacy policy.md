@@ -16,7 +16,7 @@ NOTICE</h1></span>
 <div>
 
 <span style="color: rgb(127, 127, 127);">**<span style="font-size: 15px;"><span data-custom-class="subtitle">Last
-updated August 8, 2022</span></span>**</span>
+updated May 3, 2024</span></span>**</span>
 
 </div>
 
