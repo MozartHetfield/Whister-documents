@@ -16,7 +16,7 @@ NOTICE</h1></span>
 <div>
 
 <span style="color: rgb(127, 127, 127);">**<span style="font-size: 15px;"><span data-custom-class="subtitle">Last
-updated May 3, 2024</span></span>**</span>
+updated Feb 28, 2025</span></span>**</span>
 
 </div>
 
@@ -78,7 +78,7 @@ or concerns?**</span> Reading this privacy notice will help you understand your
 privacy rights and choices. If you do not agree with our policies and
 practices, please do not use our Services. If you still have any
 questions or concerns, please contact us at
-soalexandrion1997@yahoo.com.</span></span>
+soalexandrion1997@gmail.com.</span></span>
 
 </div>
 
@@ -1519,7 +1519,7 @@ personal information, and how you can set your privacy preferences on
 their sites and
 apps.<span style="color: rgb(89, 89, 89); font-size: 15px;"><span style="color: rgb(89, 89, 89); font-size: 15px;"><span style="color: rgb(89, 89, 89); font-size: 15px;"><span style="color: rgb(89, 89, 89); font-size: 15px;"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"></span><span data-custom-class="body_text"></span></span></span></span></span></span></span></span></span></span></span></span>
 
-<span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">We are currently using the Google's Firebase services in order to authenticate users into our applications, as well as for storing all the data collected from users and the data manually introduced by users in our services. For the aforementioned, we are specifically using the following Google services: Firebase Authentication (with Google Sign In) and Firestore Cloud Storage. For additional information, you can take a look at how is the privacy and security handled by Firebase here: https://firebase.google.com/support/privacy. If you have questions, please contact us at soalexandrion1997@yahoo.com. If you don't agree with how these third party services are handling your data, please don't use our applications.
+<span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">We are currently using the Google's Firebase services in order to authenticate users into our applications, as well as for storing all the data collected from users and the data manually introduced by users in our services. For the aforementioned, we are specifically using the following Google services: Firebase Authentication (with Google Sign In) and Firestore Cloud Storage. For additional information, you can take a look at how is the privacy and security handled by Firebase here: https://firebase.google.com/support/privacy. If you have questions, please contact us at soalexandrion1997@gmail.com. If you don't agree with how these third party services are handling your data, please don't use our applications.
 </span></span>
   
 </div>
@@ -1805,7 +1805,7 @@ information from users less than 18 years of age has been collected, we
 will deactivate the account and take reasonable measures to promptly
 delete such data from our records. If you become aware of any data we
 may have collected from children under age 18, please contact us at
-<span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text">soalexandrion1997@yahoo.com</span></span>.<span style="color: rgb(89, 89, 89); font-size: 15px;"><span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text"></span></span></span></span></span></span>
+<span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text">soalexandrion1997@gmail.com</span></span>.<span style="color: rgb(89, 89, 89); font-size: 15px;"><span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text"></span></span></span></span></span></span>
 
 </div>
 
@@ -2005,7 +2005,7 @@ requirements.</span></span><span style="font-size: 15px;"><span data-custom-clas
 <span data-custom-class="body_text"><span style="font-size: 15px;">If
 you have questions or comments about your privacy rights, you may email
 us at
-soalexandrion1997@yahoo.com.</span></span><span style="font-size: 15px;"><span data-custom-class="body_text"></span></span>
+soalexandrion1997@gmail.com.</span></span><span style="font-size: 15px;"><span data-custom-class="body_text"></span></span>
 
 </div>
 
@@ -2538,7 +2538,7 @@ notice.</span></span></span></span><span data-custom-class="body_text"><span sty
 may contact us
 <span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text"></span></span>by
 email
-at </span><span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text">soalexandrion1997@yahoo.com,
+at </span><span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text">soalexandrion1997@gmail.com,
 </span><span data-custom-class="body_text"><span data-custom-class="body_text"></span></span></span></span></span><span data-custom-class="body_text">or
 by referring to the contact details at the bottom of this
 document.</span>
@@ -3051,7 +3051,7 @@ privacy rights**</span></span></span></span>
 <span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">To
 exercise these rights, you can contact
 us </span><span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text"><span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text">by
-email at soalexandrion1997@yahoo.com,
+email at soalexandrion1997@gmail.com,
 </span><span data-custom-class="body_text"><span data-custom-class="body_text"></span></span></span></span></span></span></span><span data-custom-class="body_text">or
 by referring to the contact details at the bottom of this document. If
 you have a complaint about how we handle your data, we would like to
@@ -3133,7 +3133,7 @@ NOTICE?</h2></span></span></span></span></span>
 <span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">If
 you have questions or comments about this notice, you may
 <span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text">email
-us at soalexandrion1997@yahoo.com.</span></span></span></span></span>
+us at soalexandrion1997@gmail.com.</span></span></span></span></span>
 
 </div>
 
