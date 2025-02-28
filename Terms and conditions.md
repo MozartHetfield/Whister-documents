@@ -23,8 +23,8 @@ Privacy Policy of the Company. Our Privacy Policy describes Our policies and pro
 <p>We reserve the right to modify this Agreement or its terms related to the Mobile Application and Services at any time at our discretion. When we do, we will revise the updated date at the bottom of this page. We may also provide notice to you in other ways at our discretion, such as through the contact information you have provided.</p>
 <p>An updated version of this Agreement will be effective immediately upon the posting of the revised Agreement unless otherwise specified. Your continued use of the Mobile Application and Services after the effective date of the revised Agreement (or such other act specified at that time) will constitute your consent to those changes.</p>
 <h2 id="acceptance-of-these-terms">Acceptance of these terms</h2>
-<p>You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Mobile Application and Ser.</p>
+<p>You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Mobile Application and Serices you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Mobile Application and Services.</p>
 <h2 id="contacting-us">Contacting us</h2>
 <p>If you have any questions, concerns, or complaints regarding this Agreement, we encourage you to contact us using the details below:</p>
 <p><a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#115;&#111;&#97;&#108;exan&#100;ri&#111;n199&#55;&#64;&#121;a&#104;o&#111;.c&#111;m" target="_blank" rel="nofollow">&#115;oale&#120;&#97;&#110;drion&#49;99&#55;&#64;&#121;&#97;hoo.c&#111;m</a></p>
-<p>This document was last updated on May 3, 2024</p>
+<p>This document was last updated on February 28, 2025</p>
