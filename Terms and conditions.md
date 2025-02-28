@@ -26,5 +26,7 @@ Privacy Policy of the Company. Our Privacy Policy describes Our policies and pro
 <p>You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Mobile Application and Serices you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Mobile Application and Services.</p>
 <h2 id="contacting-us">Contacting us</h2>
 <p>If you have any questions, concerns, or complaints regarding this Agreement, we encourage you to contact us using the details below:</p>
-****soalexandrion1997@gmail.com****
+
+**soalexandrion1997@gmail.com**
+
 <p>This document was last updated on February 28, 2025</p>
